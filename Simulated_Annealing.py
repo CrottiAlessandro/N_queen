@@ -1,3 +1,5 @@
+#Author: Alessandro Crotti  885846
+#Project: Assignment 1, Informatica 2 mod 1, Engineering Physics Ca' Foscari
 import numpy as np
 import time as time
 import csv
